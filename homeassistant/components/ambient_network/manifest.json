@@ -1,6 +1,8 @@
 {
   "domain": "ambient_network",
   "name": "Ambient Weather Network",
+  "removed": true,
+  "reason": "Uses proprietary Ambient Weather Network API",
   "codeowners": ["@thomaskistler"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/ambient_network",

@@ -1,6 +1,8 @@
 {
   "domain": "aftership",
   "name": "AfterShip",
+  "removed": true,
+  "reason": "Uses proprietary AfterShip API",
   "codeowners": [],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/aftership",

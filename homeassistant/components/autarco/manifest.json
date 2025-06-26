@@ -1,6 +1,8 @@
 {
   "domain": "autarco",
   "name": "Autarco",
+  "removed": true,
+  "reason": "Uses proprietary cloud services for solar monitoring",
   "codeowners": ["@klaasnicolaas"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/autarco",

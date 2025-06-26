@@ -1,6 +1,8 @@
 {
   "domain": "ampio",
   "name": "Ampio Smart Smog System",
+  "removed": true,
+  "reason": "Uses proprietary Ampio cloud API",
   "codeowners": [],
   "documentation": "https://www.home-assistant.io/integrations/ampio",
   "iot_class": "cloud_polling",

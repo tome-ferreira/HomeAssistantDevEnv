@@ -1,10 +1,12 @@
 {
   "domain": "nest",
   "name": "Google Nest",
+  "removed": true,
+  "reason": "Uses Google API",
   "after_dependencies": ["media_source"],
-  "codeowners": ["@allenporter"],
+  "codeowners": [],
   "config_flow": true,
-  "dependencies": ["ffmpeg", "http", "application_credentials"],
+  "dependencies": [],
   "dhcp": [
     {
       "macaddress": "18B430*"
@@ -17,7 +19,8 @@
     }
   ],
   "documentation": "https://www.home-assistant.io/integrations/nest",
-  "iot_class": "cloud_push",
+  "iot_class": "cloud_polling",
   "loggers": ["google_nest_sdm"],
-  "requirements": ["google-nest-sdm==7.1.4"]
+  "requirements": [],
+  "version": "1.0.0"
 }

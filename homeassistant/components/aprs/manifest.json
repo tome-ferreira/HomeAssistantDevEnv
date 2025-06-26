@@ -1,6 +1,8 @@
 {
   "domain": "aprs",
   "name": "APRS",
+  "removed": true,
+  "reason": "Uses proprietary cloud services for APRS tracking",
   "codeowners": ["@PhilRW"],
   "documentation": "https://www.home-assistant.io/integrations/aprs",
   "iot_class": "cloud_push",

@@ -1,6 +1,8 @@
 {
   "domain": "netatmo",
   "name": "Netatmo",
+  "removed": true,
+  "reason": "Uses proprietary cloud services",
   "after_dependencies": ["cloud", "media_source"],
   "codeowners": ["@cgtobi"],
   "config_flow": true,

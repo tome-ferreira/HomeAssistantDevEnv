@@ -1,6 +1,8 @@
 {
   "domain": "yale",
   "name": "Yale",
+  "removed": true,
+  "reason": "Uses proprietary cloud services",
   "codeowners": ["@bdraco"],
   "config_flow": true,
   "dependencies": ["application_credentials", "cloud"],

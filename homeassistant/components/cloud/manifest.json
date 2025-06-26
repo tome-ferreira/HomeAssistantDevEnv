@@ -1,6 +1,8 @@
 {
   "domain": "cloud",
   "name": "Home Assistant Cloud",
+  "removed": true,
+  "reason": "Uses cloud services",
   "after_dependencies": [
     "alexa",
     "assist_pipeline",
@@ -14,5 +16,7 @@
   "iot_class": "cloud_push",
   "loggers": ["acme", "hass_nabucasa", "snitun"],
   "requirements": ["hass-nabucasa==0.94.0"],
-  "single_config_entry": true
+  "single_config_entry": true,
+  "version": "1.0.0",
+  "config_flow": true
 }

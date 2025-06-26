@@ -1,6 +1,8 @@
 {
   "domain": "accuweather",
   "name": "AccuWeather",
+  "removed": true,
+  "reason": "Uses proprietary AccuWeather API",
   "codeowners": ["@bieniu"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/accuweather",

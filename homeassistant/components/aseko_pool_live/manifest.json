@@ -1,6 +1,8 @@
 {
   "domain": "aseko_pool_live",
   "name": "Aseko Pool Live",
+  "removed": true,
+  "reason": "Uses cloud services",
   "codeowners": ["@milanmeu"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/aseko_pool_live",

@@ -1,25 +1,13 @@
 {
   "domain": "lyric",
   "name": "Honeywell Lyric",
-  "codeowners": ["@timmo001"],
-  "config_flow": true,
-  "dependencies": ["application_credentials"],
-  "dhcp": [
-    {
-      "hostname": "lyric-*",
-      "macaddress": "48A2E6*"
-    },
-    {
-      "hostname": "lyric-*",
-      "macaddress": "B82CA0*"
-    },
-    {
-      "hostname": "lyric-*",
-      "macaddress": "00D02D*"
-    }
-  ],
+  "removed": true,
+  "reason": "Uses proprietary OAuth2",
   "documentation": "https://www.home-assistant.io/integrations/lyric",
-  "iot_class": "cloud_polling",
-  "loggers": ["aiolyric"],
-  "requirements": ["aiolyric==2.0.1"]
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "version": "1.0.0",
+  "config_flow": true,
+  "iot_class": "cloud_polling"
 }

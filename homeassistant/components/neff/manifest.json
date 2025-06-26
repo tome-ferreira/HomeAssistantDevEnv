@@ -1,6 +1,8 @@
 {
   "domain": "neff",
   "name": "Neff",
+  "removed": true,
+  "reason": "Depends on proprietary BSH API",
   "integration_type": "virtual",
   "supported_by": "home_connect"
 }

@@ -1,10 +1,13 @@
 {
   "domain": "igloohome",
-  "name": "igloohome",
-  "codeowners": ["@keithle888"],
-  "config_flow": true,
+  "name": "Igloo Home",
+  "removed": true,
+  "reason": "Uses proprietary API",
   "documentation": "https://www.home-assistant.io/integrations/igloohome",
-  "iot_class": "cloud_polling",
-  "quality_scale": "bronze",
-  "requirements": ["igloohome-api==0.1.0"]
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "version": "1.0.0",
+  "config_flow": true,
+  "iot_class": "cloud_polling"
 }

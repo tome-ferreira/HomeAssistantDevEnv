@@ -1,6 +1,8 @@
 {
   "domain": "home_connect",
   "name": "Home Connect",
+  "removed": true,
+  "reason": "Uses proprietary BSH API",
   "codeowners": ["@DavidMStraub", "@Diegorro98", "@MartinHjelmare"],
   "config_flow": true,
   "dependencies": ["application_credentials", "repairs"],

@@ -1,6 +1,8 @@
 {
   "domain": "simu",
   "name": "SIMU LiveIn2",
+  "removed": true,
+  "reason": "Depends on proprietary Overkiz services",
   "integration_type": "virtual",
   "supported_by": "overkiz"
 }

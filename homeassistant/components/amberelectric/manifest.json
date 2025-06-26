@@ -1,6 +1,8 @@
 {
   "domain": "amberelectric",
   "name": "Amber Electric",
+  "removed": true,
+  "reason": "Uses proprietary Amber Electric API",
   "codeowners": ["@madpilot"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/amberelectric",

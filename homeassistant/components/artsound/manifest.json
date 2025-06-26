@@ -1,6 +1,8 @@
 {
   "domain": "artsound",
   "name": "ArtSound",
+  "removed": true,
+  "reason": "Depends on linkplay which uses cloud services",
   "integration_type": "virtual",
   "supported_by": "linkplay"
 }

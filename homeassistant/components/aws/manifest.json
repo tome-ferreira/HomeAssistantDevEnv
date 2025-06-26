@@ -1,6 +1,8 @@
 {
   "domain": "aws",
   "name": "Amazon Web Services (AWS)",
+  "removed": true,
+  "reason": "Uses proprietary cloud services from Amazon Web Services",
   "codeowners": [],
   "documentation": "https://www.home-assistant.io/integrations/aws",
   "iot_class": "cloud_push",

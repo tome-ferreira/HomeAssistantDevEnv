@@ -1,6 +1,8 @@
 {
   "domain": "ios",
   "name": "Home Assistant iOS",
+  "removed": true,
+  "reason": "Uses Apple proprietary services",
   "codeowners": ["@robbiet480"],
   "config_flow": true,
   "dependencies": ["device_tracker", "http", "zeroconf"],

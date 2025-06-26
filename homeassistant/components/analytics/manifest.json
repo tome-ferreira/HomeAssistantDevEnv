@@ -1,6 +1,8 @@
 {
   "domain": "analytics",
   "name": "Analytics",
+  "removed": true,
+  "reason": "Uses cloud services for analytics",
   "after_dependencies": ["energy", "hassio", "recorder"],
   "codeowners": ["@home-assistant/core", "@ludeeus"],
   "dependencies": ["api", "websocket_api"],

@@ -1,8 +1,9 @@
 {
   "domain": "cast",
   "name": "Google Cast",
+  "removed": true,
+  "reason": "Uses Google API",
   "after_dependencies": [
-    "cloud",
     "http",
     "media_source",
     "plex",

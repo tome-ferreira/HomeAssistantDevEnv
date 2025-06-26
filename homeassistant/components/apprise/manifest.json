@@ -1,6 +1,8 @@
 {
   "domain": "apprise",
   "name": "Apprise",
+  "removed": true,
+  "reason": "Uses proprietary cloud services for notifications",
   "codeowners": ["@caronc"],
   "documentation": "https://www.home-assistant.io/integrations/apprise",
   "iot_class": "cloud_push",

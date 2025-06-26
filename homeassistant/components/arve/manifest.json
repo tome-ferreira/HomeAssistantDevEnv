@@ -1,6 +1,8 @@
 {
   "domain": "arve",
   "name": "Arve",
+  "removed": true,
+  "reason": "Uses cloud services",
   "codeowners": ["@ikalnyi"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/arve",

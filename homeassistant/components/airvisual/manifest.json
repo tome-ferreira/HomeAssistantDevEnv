@@ -1,6 +1,8 @@
 {
   "domain": "airvisual",
   "name": "AirVisual Cloud",
+  "removed": true,
+  "reason": "Uses proprietary AirVisual cloud API",
   "codeowners": ["@bachya"],
   "config_flow": true,
   "dependencies": ["airvisual_pro"],

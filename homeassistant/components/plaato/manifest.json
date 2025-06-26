@@ -1,7 +1,6 @@
 {
   "domain": "plaato",
   "name": "Plaato",
-  "after_dependencies": ["cloud"],
   "codeowners": ["@JohNan"],
   "config_flow": true,
   "dependencies": ["webhook"],

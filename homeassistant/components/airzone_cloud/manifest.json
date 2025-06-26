@@ -1,6 +1,8 @@
 {
   "domain": "airzone_cloud",
   "name": "Airzone Cloud",
+  "removed": true,
+  "reason": "Uses proprietary Airzone cloud API",
   "codeowners": ["@Noltari"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/airzone_cloud",

@@ -1,6 +1,8 @@
 {
   "domain": "airly",
   "name": "Airly",
+  "removed": true,
+  "reason": "Uses proprietary Airly API",
   "codeowners": ["@bieniu"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/airly",

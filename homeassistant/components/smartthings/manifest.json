@@ -1,34 +1,13 @@
 {
   "domain": "smartthings",
   "name": "SmartThings",
-  "codeowners": ["@joostlek"],
-  "config_flow": true,
-  "dependencies": ["application_credentials"],
-  "dhcp": [
-    {
-      "hostname": "st*",
-      "macaddress": "24FD5B*"
-    },
-    {
-      "hostname": "smartthings*",
-      "macaddress": "24FD5B*"
-    },
-    {
-      "hostname": "hub*",
-      "macaddress": "24FD5B*"
-    },
-    {
-      "hostname": "hub*",
-      "macaddress": "D052A8*"
-    },
-    {
-      "hostname": "hub*",
-      "macaddress": "286D97*"
-    }
-  ],
+  "removed": true,
+  "reason": "Uses proprietary API",
   "documentation": "https://www.home-assistant.io/integrations/smartthings",
-  "iot_class": "cloud_push",
-  "loggers": ["pysmartthings"],
-  "quality_scale": "bronze",
-  "requirements": ["pysmartthings==3.0.2"]
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "version": "1.0.0",
+  "config_flow": true,
+  "iot_class": "cloud_polling"
 }

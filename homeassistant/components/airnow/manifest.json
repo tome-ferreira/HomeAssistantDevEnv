@@ -1,6 +1,8 @@
 {
   "domain": "airnow",
   "name": "AirNow",
+  "removed": true,
+  "reason": "Uses proprietary AirNow API",
   "codeowners": ["@asymworks"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/airnow",

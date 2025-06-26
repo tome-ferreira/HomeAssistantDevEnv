@@ -1,6 +1,8 @@
 {
   "domain": "airthings",
   "name": "Airthings",
+  "removed": true,
+  "reason": "Uses proprietary Airthings cloud API",
   "codeowners": ["@danielhiversen", "@LaStrada"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/airthings",

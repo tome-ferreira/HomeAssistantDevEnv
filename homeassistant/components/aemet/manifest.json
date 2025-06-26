@@ -1,6 +1,8 @@
 {
   "domain": "aemet",
   "name": "AEMET OpenData",
+  "removed": true,
+  "reason": "Uses proprietary AEMET API",
   "codeowners": ["@Noltari"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/aemet",

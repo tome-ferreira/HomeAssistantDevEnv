@@ -1,6 +1,8 @@
 {
   "domain": "alpha_vantage",
   "name": "Alpha Vantage",
+  "removed": true,
+  "reason": "Uses proprietary Alpha Vantage API",
   "codeowners": [],
   "documentation": "https://www.home-assistant.io/integrations/alpha_vantage",
   "iot_class": "cloud_polling",

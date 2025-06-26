@@ -1,11 +1,13 @@
 {
   "domain": "fitbit",
   "name": "Fitbit",
-  "codeowners": ["@allenporter"],
-  "config_flow": true,
-  "dependencies": ["application_credentials", "http"],
+  "removed": true,
+  "reason": "Uses proprietary API",
   "documentation": "https://www.home-assistant.io/integrations/fitbit",
-  "iot_class": "cloud_polling",
-  "loggers": ["fitbit"],
-  "requirements": ["fitbit==0.3.1"]
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "version": "1.0.0",
+  "config_flow": true,
+  "iot_class": "cloud_polling"
 }

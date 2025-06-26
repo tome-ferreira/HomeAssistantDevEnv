@@ -1,7 +1,6 @@
 {
   "domain": "toon",
   "name": "Toon",
-  "after_dependencies": ["cloud"],
   "codeowners": [],
   "config_flow": true,
   "dependencies": ["auth"],

@@ -1,6 +1,8 @@
 {
   "domain": "overkiz",
   "name": "Overkiz",
+  "removed": true,
+  "reason": "Uses proprietary Somfy services",
   "codeowners": ["@imicknl"],
   "config_flow": true,
   "dhcp": [

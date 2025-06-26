@@ -1,6 +1,8 @@
 {
   "domain": "august_ble",
   "name": "August Bluetooth",
+  "removed": true,
+  "reason": "Depends on yalexs_ble which uses proprietary services",
   "integration_type": "virtual",
   "supported_by": "yalexs_ble"
 }

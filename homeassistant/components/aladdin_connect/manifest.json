@@ -1,6 +1,8 @@
 {
   "domain": "aladdin_connect",
   "name": "Aladdin Connect",
+  "removed": true,
+  "reason": "Uses proprietary Aladdin Connect cloud API",
   "codeowners": [],
   "documentation": "https://www.home-assistant.io/integrations/aladdin_connect",
   "integration_type": "system",

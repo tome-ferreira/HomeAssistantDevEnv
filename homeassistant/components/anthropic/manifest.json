@@ -1,6 +1,8 @@
 {
   "domain": "anthropic",
   "name": "Anthropic Conversation",
+  "removed": true,
+  "reason": "Uses proprietary cloud services and AI APIs",
   "after_dependencies": ["assist_pipeline", "intent"],
   "codeowners": ["@Shulyaka"],
   "config_flow": true,

@@ -1,6 +1,8 @@
 {
   "domain": "azure_data_explorer",
   "name": "Azure Data Explorer",
+  "removed": true,
+  "reason": "Uses proprietary cloud services from Microsoft Azure",
   "codeowners": ["@kaareseras"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/azure_data_explorer",

@@ -1,6 +1,8 @@
 {
   "domain": "aurora",
   "name": "Aurora",
+  "removed": true,
+  "reason": "Uses proprietary cloud services for aurora data",
   "codeowners": ["@djtimca"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/aurora",

@@ -1,6 +1,8 @@
 {
   "domain": "aps",
   "name": "Arizona Public Service (APS)",
+  "removed": true,
+  "reason": "Depends on opower which uses cloud services",
   "integration_type": "virtual",
   "supported_by": "opower"
 }

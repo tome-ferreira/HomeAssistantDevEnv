@@ -1,6 +1,8 @@
 {
   "domain": "hexaom",
   "name": "Hexaom Hexaconnect",
+  "removed": true,
+  "reason": "Depends on proprietary Overkiz services",
   "integration_type": "virtual",
   "supported_by": "overkiz"
 }

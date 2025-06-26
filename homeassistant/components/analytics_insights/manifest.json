@@ -1,6 +1,8 @@
 {
   "domain": "analytics_insights",
   "name": "Home Assistant Analytics Insights",
+  "removed": true,
+  "reason": "Uses cloud services for analytics",
   "codeowners": ["@joostlek"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/analytics_insights",

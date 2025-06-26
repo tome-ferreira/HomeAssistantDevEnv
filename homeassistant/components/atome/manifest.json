@@ -1,6 +1,8 @@
 {
   "domain": "atome",
   "name": "Atome Linky",
+  "removed": true,
+  "reason": "Uses proprietary cloud services",
   "codeowners": ["@baqs"],
   "documentation": "https://www.home-assistant.io/integrations/atome",
   "iot_class": "cloud_polling",

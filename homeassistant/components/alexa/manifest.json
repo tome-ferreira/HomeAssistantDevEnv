@@ -1,6 +1,8 @@
 {
   "domain": "alexa",
   "name": "Amazon Alexa",
+  "removed": true,
+  "reason": "Uses Amazon API",
   "after_dependencies": ["camera"],
   "codeowners": ["@home-assistant/cloud", "@ochlocracy", "@jbouwh"],
   "dependencies": ["http"],
